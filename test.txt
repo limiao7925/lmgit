@@ -3,3 +3,5 @@ this is a test txt
 change 1
 
 index called stage
+
+track change
