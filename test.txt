@@ -9,3 +9,5 @@ track change
 track change2
 
 change with branch
+
+branch log
